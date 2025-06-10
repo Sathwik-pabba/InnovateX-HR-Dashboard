@@ -78,9 +78,9 @@ To support a thriving workforce, we investigate:
 
 ## 📁 Files Included
 
-- `InnovateX_HR_Dashboard.pbix` – Power BI report  
-- `InnovateX_HR_Dashboard.png` – Dashboard snapshot  
-- `InnovateX_HR_Dataset.xlsx` – HR dataset
+- `Innovate X HR Dashboard.pbix` – Power BI report  
+- `Innovate X HR.Dashboard.png` – Dashboard snapshot  
+- `InnovateX+HR+Dataset.xlsx` – HR dataset
 
 ---
 
