@@ -51,7 +51,7 @@ To support a thriving workforce, we investigate:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Sathwik-pabba/InnovateX-HR-Dashboard/blob/main/Innovate%20X%20HR.Dashboard.jpg)
 
 ---
 
