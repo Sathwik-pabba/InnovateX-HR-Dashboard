@@ -86,10 +86,11 @@ To support a thriving workforce, we investigate:
 
 ## 🙋‍♂️ About Me
 
-I’m **Pabba Sathwik**, a data analyst specializing in **Power BI, SQL & Python**, dedicated to transforming complex HR data into clear, actionable insights.  
-Explore more: [GitHub Profile](https://github.com/Sathwik-pabba)
+I'm a data analyst with expertise in **Power BI**, **Tableau**, **SQL**, and **Python**, **Pandas**, **NumPy**, and **data visualization**, **Matplotlib**, **Seaborn**, **MongoDB**, **Excel**. Passionate about turning raw data into clear business insights.  
+Check out more on my [GitHub Profile](https://github.com/Sathwik-pabba).
 
 ---
+
 
 ## 🔗 Connect with Me
 
